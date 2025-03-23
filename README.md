@@ -49,7 +49,7 @@ python resize.py
 - You can modify file names and parameters as needed:
 
 ```python
-compress_pdf("input.pdf", "output.pdf", image_quality=85)
+compress_pdf("input.pdf", "input_compressed.pdf", image_quality=85)
 ```
 
 ---
