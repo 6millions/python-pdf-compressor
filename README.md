@@ -103,7 +103,7 @@ python-pdf-compressor/
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [6millions](https://github.com/6millions)
+Created as a personal tool to compress scanned PDFs for uploading — inspired by everyday needs by [6millions](https://github.com/6millions)
 
 ---
 
