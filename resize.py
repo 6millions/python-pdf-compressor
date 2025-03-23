@@ -27,4 +27,4 @@ def compress_pdf(input_path, output_path, image_quality=40):
     print(f"✅ Compressed PDF saved to: {output_path}")
 
 # Example usage
-compress_pdf("input.pdf", "input_compress.pdf", image_quality=50)
+compress_pdf("input.pdf", "input_compressed.pdf", image_quality=50)
